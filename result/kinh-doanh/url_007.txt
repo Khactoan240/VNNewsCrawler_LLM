@@ -1,0 +1,11 @@
+Tiện ích khi thanh toán Apple Pay với thẻ BIDV Visa 
+Chủ thẻ BIDV Visa có thể kích hoạt Apple Pay nhanh, đảm bảo tính bảo mật trên iPhone và hưởng nhiều tiện ích khác.
+Thiết lập nhanh
+Apple Pay trên các thiết bị Apple có thể sử dụng để mua hàng tại cửa hàng, trong ứng dụng và trực tuyến. Để thiết lập, người dùng mở Apple Wallet trên iPhone, Apple Watch và nhấn vào ký hiệu (+) hoặc trên ứng dụng BIDV SmartBanking. Sau đó, khi thực hiện một số thao tác nhấn, khách hàng có thể sử dụng Apple Pay với thẻ tín dụng BIDV Visa.
+Tính bảo mật
+Với Apple Pay, người dùng có thể thanh toán bằng thẻ BIDV Visa trên iPhone, Apple Watch, iPad hoặc Mac. Ví điện tử này sử dụng các tính năng bảo mật được tích hợp trong thiết bị Apple để giúp cho giao dịch mua hàng riêng tư và an toàn hơn. Mỗi giao dịch được bảo mật thông qua xác thực bằng Face ID, Touch ID hoặc mật khẩu của thiết bị, cùng một mã bảo mật động dùng một lần.
+Bảo mật và quyền riêng tư là điểm cốt lõi của Apple Pay. Số thẻ tín dụng thực tế không được lưu trữ trên thiết bị hoặc trên máy chủ Apple khi khách hàng sử dụng Apple Pay cho các giao dịch thanh toán. Thay vào đó, một số tài khoản thiết bị (Device Account Number) duy nhất sẽ được gán, mã hóa và lưu trữ an toàn trong Secure Element, con chip tiêu chuẩn lưu trữ thông tin thanh toán an toàn trên các thiết bị điện tử.
+Mua sắm tại cửa hàng yêu thích
+Chủ thẻ tín dụng BIDV Visa Visa có thể sử dụng Apple Pay tại nhiều điểm giao dịch trên toàn quốc như FPT Shop, nhà thuốc Long Châu, Cellphones, Điện Máy Xanh, Hoàng Hà Mobile, Lotte Mart, Starbuck, TopZone, The Pizza Company... hoặc trên ứng dụng, website Bách Hóa Xanh, Be, Shopee, Mytour.vn, Hasaki...
+Ngày 10/9 - 31/10, người dùng được hoàn tiền 100.000 đồng cho ba giao dịch thanh toán ví khi sử dụng Apple Pay. Ngoài ra, chủ thẻ có thể áp dụng đồng thời ưu đãi, tích lũy điểm thưởng của thẻ, miễn lãi 45 ngày, trả góp 0% và ưu đãi tại hàng nghìn điểm giao dịch liên kết thẻ BIDV trên toàn quốc.
+Nhật Lệ

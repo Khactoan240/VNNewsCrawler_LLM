@@ -1,0 +1,10 @@
+Lỗi đầu tiên trên iPhone 16 Pro 
+Nhiều người dùng iPhone 16 Pro và 16 Pro Max cho biết thiết bị gặp lỗi phản hồi khi thao tác trên màn hình cảm ứng.
+"Khá phiền phức khi dùng iPhone 16 Pro Max vì cảm ứng lúc được lúc không, chậm phản hồi, nhất là khi cầm bằng một tay", tài khoản YuneTech viết trên X.
+"Tôi cũng gặp tình trạng tương tự. Việc nhắn tin cũng khó khăn do chữ nhảy loạn xạ. Chỉ khi bỏ máy xuống bàn và dùng một ngón tay thao tác, cảm ứng mới trở lại bình thường", tài khoản Travis bình luận.
+Theo ghi nhận của MacRumors, ngày càng nhiều người dùng hai mẫu iPhone 16 dòng Pro than phiền lỗi cảm ứng. Hầu hết cho biết phản hồi trên màn hình chậm, các thao tác chạm và vuốt thi thoảng gặp trục trặc. Hiện tượng này chưa ghi nhận trên iPhone 16 bản thường và cũng không xảy ra khi thiết bị ở chế độ khóa màn hình, cho thấy đây có thể là do phần mềm, không phải phần cứng.
+Một số sau đó phát hiện nguyên nhân nằm ở nút Camera Control. "Nếu bạn vô tình chạm vào khu vực cạnh nút Camera Control, toàn bộ màn hình sẽ không phản hồi cho đến khi được thả ra. Đây là khu vực duy nhất gây ra sự cố", tài khoản Known_Tap_1462 viết trên Reddit, đồng thời vẽ vị trí không nên chạm. "Giải pháp tạm thời là tránh khu vực đó hoặc sử dụng tay trái nhiều hơn".
+Theo nhà nghiên cứu Khaos Tian trên blog Mastodon, cảm ứng đa điểm trên màn hình iPhone Pro mới đang có vấn đề. Khi chạm vào một điểm trên màn hình, phần mềm điện thoại sẽ bỏ qua mọi thao tác chạm mới khác trong một khoảng thời gian ngắn.
+9to5mac cho rằng iPhone 16 Pro có viền bezel mỏng hơn so với thế hệ trước, khiến người dùng dễ vô tình chạm vào các cạnh của màn hình. "Chỉ cần một phần da nhỏ chạm vào, nó có thể kích hoạt chức năng cảm ứng và 'từ chối' cảm ứng chỗ khác. Từ đó, thiết bị rơi vào trạng thái loạn cảm ứng", trang này viết, cho rằng Apple sẽ sớm khắc phục bằng một bản cập nhật do lỗi liên quan đến phần mềm.
+Apple chưa đưa ra bình luận.
+Bảo Lâm

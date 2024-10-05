@@ -1,0 +1,11 @@
+Nokia chuẩn bị triển khai 5G tại Việt Nam 
+Nokia dự kiến triển khai hệ thống 5G sử dụng thiết bị của hãng tại 22 tỉnh thành trên cả nước trong năm nay.
+Nokia cho biết việc triển khai nằm trong thỏa thuận với một nhà mạng tại Việt Nam nhằm phát triển cơ sở hạ tầng 5G, chuyển đổi số, hiện đại hóa hạ tầng 4G.
+Loại thiết bị thuộc danh mục 5G AirScale, bao gồm các giải pháp băng tần AirScale thế hệ mới, thiết bị vô tuyến Massive MIMO và các sản phẩm Remote Radio Head. Nokia cũng cho biết các thiết bị sử dụng SoC ReefShark, có khả năng tiết kiệm năng lượng và có thể kết hợp lại để đảm bảo vùng phủ sóng và dung lượng cao.
+"Các sản phẩm cũng được sản xuất tại nhà máy ở Việt Nam, nhấn mạnh cam kết của Nokia đối với khu vực", đại diện hãng nói, cho biết đây cũng là lần đầu thiết bị mạng 5G Nokia được triển khai tại đây.
+Hồi tháng 6, Nokia cho biết đã bắt đầu sản xuất danh mục sản phẩm thuộc dòng AirScale và sẽ tăng sản lượng từ tháng 9. Các thiết bị này được sản xuất tại nhà máy của Foxconn tại Bắc Giang, cung cấp cho thị trường Việt Nam và một số nước lân cận.
+Nokia không tiết lộ thời gian cụ thể, nhưng cho biết "sẽ bắt đầu trong năm nay", tức trong ba tháng tới.
+Trên thị trường thiết bị đầu cuối, kết nối 5G đã có mặt trên nhiều smartphone từ phân khúc tầm trung như Honor 90 Lite, Galaxy M15 tới thiết bị cao cấp như Z Fold6, iPhone 16.
+Bộ Thông tin và Truyền thông và các nhà mạng nhiều lần khẳng định 5G sẽ được triển khai chính thức trong năm 2024. Từ những tháng đầu năm, Bộ đã tổ chức đấu giá thành công ba khối băng tần 5G, thuộc về các nhà mạng Viettel, VNPT, MobiFone. Theo điều kiện đấu giá, doanh nghiệp phải triển khai dịch vụ trong vòng 12 tháng kể từ ngày được cấp phép và sau hai năm phải có tối thiểu 3.000 trạm phát sóng 5G.
+Sau khi trúng đấu giá băng tần hồi tháng 3, Viettel cho biết một số thiết bị 5G do công ty tự nghiên cứu và sản xuất đã sẵn sàng để chạy triển khai trên băng tần 2500-2600 MHz. Hồi tháng 8, họ cũng tuyên bố triển khai thành công mạng 5G độc lập (5G Standalone), tức không phụ thuộc hạ thầng 4G, đồng thời ra mắt dịch vụ video chờ meCall, là dịch vụ đầu tiên trong hệ sinh thái 5G của nhà mạng này.
+Lưu Quý

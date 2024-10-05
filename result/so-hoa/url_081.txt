@@ -1,0 +1,12 @@
+Google chi gần ba tỷ USD để lôi kéo 'thiên tài AI' 
+Google bỏ ra số tiền 2,7 tỷ USD để mời Noam Shazeer, một nhân viên cũ của công ty và được đánh giá là thiên tài AI, trở lại làm việc.
+Theo WSJ, Noam Shazeer sẽ trở lại Google nhưng với vị thế mới. Ông từng tham gia phát triển chatbot thông minh LaMDA - mô hình được đánh giá "có nhận thức như một đứa trẻ", nhưng rời Google năm 2021 để khởi nghiệp với startup Character.AI.
+Các nguồn tin cho biết, sự trở lại của Shazeer là một phần của sự hợp tác rộng lớn hơn. Shazeer và một số nhân viên chủ chốt từ startup của ông sẽ đảm nhận vai trò lãnh đạo tại Google DeepMind. Dominic Perella, cố vấn pháp lý của Character.AI, sẽ tạm làm CEO thay thế Shazeer.
+Việc lôi kéo tài năng Shazeer không hề rẻ. WSJ cho biết Google trả khoảng 2,7 tỷ USD để tuyển lại nhân viên cũ của mình, cũng như mua cổ phần từ các nhà đầu tư, nhân viên Character.AI.
+Từ tháng 8, TechCrunch đã dẫn các nguồn tin nội bộ cho biết Shazeer sẽ quay về Google. Ông sẽ là một trong ba người có vai trò chỉ đạo phát triển dự án AI mới nhất của Google là Gemini.
+Character.AI là công ty đứng sau mô hình AI cùng tên, cho phép người dùng tự tạo chatbot mô phỏng bất cứ ai họ muốn, dù còn sống hay đã chết. Công ty do Shazeer và Daniel De Freitas thành lập tháng 9/2022, được Andreessen Horowitz (quỹ a16z) hậu thuẫn và được định giá một tỷ USD năm ngoái. Theo Financial Times, Elon Musk và Mark Zuckerberg thậm chí đối đầu nhau để tìm kiếm sự hợp tác với startup này.
+Benzinga đánh giá việc Shazeer quay lại Google có lợi cho cả hai. Dù có hơn 20 triệu người dùng hoạt động hàng tháng, Character.AI vẫn gặp nhiều vấn đề trong việc kiếm tiền từ dịch vụ và kiểm soát hành vi người dùng. Trong khi đó, Google đang chậm chân so với một số công ty khác, như OpenAI. Do vậy, sự trở lại của Shazeer sẽ giúp đẩy nhanh tiến độ các dự án trí tuệ nhân tạo đang diễn ra.
+"Với sự có mặt của Shazeer, các mô hình ngôn ngữ lớn độc quyền của Google sẽ tăng trưởng đáng kể trong 3-5 năm tới", nhà phân tích Laura Martin nói với Benzinga.
+Dù vậy, một số chuyên gia cũng chỉ trích các công ty lớn ở Thung lũng Silicon đang chi tiêu quá tay trong cuộc đua AI. "Rõ ràng, Noam Shazeer là người tuyệt vời trong lĩnh vực AI. Tuy nhiên, anh ấy có giỏi gấp 20 lần nguời khác không?", Christopher Manning, Giám đốc Phòng thí nghiệm AI Stanford viết trên X.
+Google chưa đưa ra bình luận.
+Bảo Lâm

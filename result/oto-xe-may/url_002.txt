@@ -1,0 +1,9 @@
+Ôtô đầu tiên có tính năng phá cửa kính khi rơi xuống nước 
+Trung Quốc
+Mẫu Zeekr 7X tích hợp búa phá kính ở cửa lái, khi tài xế kéo lẫy sẽ tự tạo lối thoát nạn trong trường hợp xe bị chìm.
+Mẫu SUV mới nhất của Zeekr được thiết kế "để giải quyết tình trạng ngập lụt ở đô thị và nguy hiểm từ việc nước tràn vào xe". Công nghệ này được giới thiệu lần đầu trên thế giới.
+Để kiểm tra, một chiếc 7X được lái xuống hồ với sự tham gia của một thành viên đội cứu hộ Blue Sky Rescue của Trung Quốc, một trong những tổ chức tìm kiếm và cứu hộ tình nguyện lớn nhất tại đây. Xe nhanh chóng bị chìm và hệ thống điện không còn, nhưng búa phá cửa vẫn hoạt động và nhân viên cứu hộ có thể bơi ra ngoài.
+Nguyên tắc kỹ thuật khá đơn giản. Hãng tích hợp trên táp-pi cửa (mặt dưới loạt nút điều chỉnh cửa sổ) một hộc nhỏ có nắp. Nếu bị rơi xuống nước, tài xế tháo nắp, giật cần gạt bên trong, cơ cấu kéo sẽ tạo lực để chiếc búa giấu sẵn trong cánh cửa bật ra, đập vào kính cửa sổ.
+Đại diện Zeekr cho biết tính năng được thiết kế để dễ tiếp cận và búa có thể tạo ra lực 306 kg để đập vỡ kính cửa sổ. Lực này gấp 33 lần so với búa an toàn thông thường hoặc tương đương 5 người đàn ông trưởng thành đập cùng lúc vào cửa sổ. Vì hệ thống cơ học, nên búa vẫn hoạt động khi xe bị ngập nước và không còn điện.
+Zeekr cho biết tất cả búa phá kính là trang bị tiêu chuẩn trên mọi phiên bản của 7X. Tại Trung Quốc, chiếc crossover hạng sang cỡ trung nhắm đến các đối thủ như Tesla Model Y. Giá khởi điểm khoảng 32.000 USD cho phiên bản một môtơ điện.
+Mỹ Anh (theo InsideEVs)

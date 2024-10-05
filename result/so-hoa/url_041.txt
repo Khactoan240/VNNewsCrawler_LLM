@@ -1,0 +1,9 @@
+Đưa ChatGPT lên máy tính bỏ túi 
+Một YouTuber tích hợp thành công ChatGPT lên mẫu máy tính cầm tay Texas Instruments TI-84 và gọi nó là "thiết bị gian lận tối thượng".
+Đầu tháng 9, ChromaLock, YouTuber kiêm modder - chỉ người chuyên sửa đổi phần cứng, phần mềm để thực hiện một chức năng không do nhà thiết kế đưa ra - đã đăng hình ảnh chiếc máy tính TI-84 được can thiệp phần cứng để có thể tích hợp ChatGPT và thực hiện hàng loạt tính năng thông minh.
+Trong video chia sẻ trên YouTube, ChromaLock cho biết đã gắn thêm một bộ vi điều khiển wifi Seeed Studio XIAO-ESP32-C3 cùng một số vi mạch khác để kết nối không dây qua thiết bị khác, cũng như truyền phần mềm cần thiết sau này. Linh kiện có thể dễ dàng mua trên các trang thương mại điện tử. Toàn bộ ẩn bên trong, còn vẻ ngoài của thiết bị không thay đổi.
+Phần mềm cũng được thiết kế để nội dung có thể hiển thị trên màn hình máy tính cầm tay. Cuối cùng, ChromaLock truyền dữ liệu từ PC lên thiết bị đích.
+Trong video, modder này đã thực hiện một số tính năng mới mà một chiếc TI-84 thông thường không có, như giải toán và truy vấn thông tin qua ChatGPT, xem ảnh dạng đơn sắc, chơi game rắn săn mồi. Nhiều chức năng cũng đang được xây dựng, như duyệt web, chức năng email, phát video và thậm chí truy cập Discord.
+Hiện phần mềm đã được chia sẻ trên GitHub và được mô tả là "bản mod cho máy tính TI-84 Plus Silver Edition và TI-84 Plus C Silver Edition, cung cấp truy cập Internet và thêm các tính năng khác, như hỗ trợ camera".
+Theo Tom's Hardware, thiết bị của ChromaLock khá thú vị khi mở ra nhiều chức năng mới cho một máy tính bỏ túi phổ biến như TI-84. Dù vậy, như tên gọi "thiết bị gian lận tối thượng", nó có thể bị học sinh lạm dụng trong kỳ thi. Với ngoại hình không khác gì chiếc TI-84 thông thường, giáo viên khó phát hiện điểm bất thường.
+Bảo Lâm

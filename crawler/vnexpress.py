@@ -19,19 +19,62 @@ class VNExpressCrawler(BaseCrawler):
     def __init__(self, **kwargs):
         self.__dict__.update(kwargs)
         self.logger = log.get_logger(name=__name__)
+        # self.article_type_dict = {
+        #     0: "thoi-su",
+        #     1: "du-lich",
+        #     2: "the-gioi",
+        #     3: "kinh-doanh",
+        #     4: "khoa-hoc",
+        #     5: "giai-tri",
+        #     6: "the-thao",
+        #     7: "phap-luat",
+        #     8: "giao-duc",
+        #     9: "suc-khoe",
+        #     10: "doi-song"
+        # }   
+        # self.article_type_dict = {
+        #     # 0: "thoi-su",
+        #     # 1: "goc-nhin",
+        #     # 2: "the-gioi",
+        #     # 3: "podcast",
+        #     4: "kinh-doanh",
+        #     5: "bat-dong-san",
+        #     6: "khoa-hoc",
+        #     7: "giai-tri",
+        #     8: "the-thao",
+        #     9: "phap-luat",
+        #     10: "giao-duc",
+        #     11: "suc-khoe",
+        #     12: "doi-song",
+        #     13: "du-lich",
+        #     14: "so-hoa",
+        #     15: "oto-xe-may",
+        #     16: "y-kien",
+        #     17: "tam-su",
+        #     18: "thu-gian",
+
+        # }   
         self.article_type_dict = {
             0: "thoi-su",
-            1: "du-lich",
+            1: "goc-nhin",
             2: "the-gioi",
             3: "kinh-doanh",
-            4: "khoa-hoc",
-            5: "giai-tri",
-            6: "the-thao",
-            7: "phap-luat",
-            8: "giao-duc",
-            9: "suc-khoe",
-            10: "doi-song"
-        }   
+            4: "bat-dong-san",
+            5: "khoa-hoc",
+            6: "giai-tri",
+            7: "the-thao",
+            8: "phap-luat",
+            9: "giao-duc",
+            10: "suc-khoe",
+            11: "doi-song",
+            12: "du-lich",
+            13: "so-hoa",
+            14: "oto-xe-may",
+            15: "y-kien",
+            16: "tam-su",
+            17: "thu-gian",
+
+        } 
 
     def extract_content(self, url: str) -> tuple:
         """

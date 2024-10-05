@@ -1,0 +1,12 @@
+Viên ruby đầu tiên trên thế giới được 'trồng' ngay trên nhẫn 
+Anh
+Lần đầu tiên một "hạt giống" ruby phát triển thành viên ruby kích thước đầy đủ ngay trên một chiếc nhẫn bạch kim nhờ phương pháp hóa học.
+Sofie Boons, giảng viên cấp cao kiêm nhà nghiên cứu thiết kế trang sức tại Đại học Tây Anh (UWE), Bristol, phát triển một kỹ thuật hóa học để kích thích ruby (hồng ngọc) tăng trưởng, BBC hôm 26/9 đưa tin. Kỹ thuật này cho phép một mảnh ruby tí hon tăng dần kích thước khi đặt trong khung trang sức. UWE tin rằng quy trình "trồng tại chỗ" này chưa từng được thực hiện thành công trước đây.
+Boons bắt đầu với một "hạt giống" ruby lấy từ vụn đá quý thải ra. Bà đặt mảnh vụn vào khung bạch kim, ví dụ như một chiếc nhẫn, sau đó sử dụng một chất hóa học gọi là flux. Chất này làm giảm nhiệt độ, giúp viên đá quý phát triển.
+Khác với những viên đá quý được trồng từ đầu trong phòng thí nghiệm, tiêu tốn nhiều năng lượng, hay đá quý khai thác từ lòng đất theo cách không bền vững, đá quý của Boons phát triển trong lò luyện từ các mảnh vật liệu đá quý thải bỏ, chỉ mất vài ngày và 5 giờ năng lượng để phát triển.
+"Tôi đang thử nghiệm phát triển chúng trong lò từ 5 - 50 giờ. Với thời gian dài hơn, tôi sẽ nhận được các tinh thể lớn hơn và sạch hơn một chút. Tôi đang nỗ lực rút ngắn thời gian để khiến quá trình này trở nên bền vững hơn", Boons nói.
+Phương pháp mới thách thức quan niệm cho rằng đá quý nhân tạo trông không tự nhiên. "Những đặc điểm tăng trưởng khó dự đoán tạo ra viên đá với các mặt tự nhiên, một người làm trang sức như tôi thấy điều này rất thú vị", Boons nói thêm.
+Nhận thức về giá trị của những viên ruby tự trồng đang thay đổi, theo Rebecca Enderby, nhà thiết kế trang sức ở Bristol. "Những viên đá quý trồng trong phòng thí nghiệm này không phải là giả. Chúng mô phỏng những gì phát triển dưới lòng đất hàng nghìn năm, vì vậy, chúng là sự thay thế giá rẻ hơn cho những viên đá khai thác từ mỏ", Enderby giải thích.
+Đá quý tự trồng có tiềm năng thân thiện với môi trường hơn, theo Enderby. "Tuy nhiên, chúng vẫn cần nhiều năng lượng để sản xuất. Do đó, chúng nên được sản xuất từ những nguồn năng lượng xanh", bà nói thêm.
+Kỹ thuật trồng ruby mới là một phần trong nghiên cứu tiến sĩ của Boons. Nghiên cứu này hiện đã thu hút được vòng tài trợ thứ hai từ UWE. Đại học Bristol cũng tham gia hỗ trợ để mở rộng nghiên cứu sang những loại đá quý khác.
+Thu Thảo (Theo BBC)

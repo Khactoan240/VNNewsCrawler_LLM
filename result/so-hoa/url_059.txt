@@ -1,0 +1,12 @@
+AI đạt bước tiến mới, qua mặt captcha 
+Google reCAPTCHAv2, một trong những hệ thống captcha phổ biến, bị AI "qua mặt" khi xác thực trên Internet.
+Trong bài viết đăng trên arXiv - nền tảng chuyên chia sẻ nghiên cứu được tuyển lựa kỹ càng, nhóm do Andreas Plesner, nghiên cứu sinh tiến sĩ tại Đại học ETH Zurich, đứng đầu đã chứng minh AI có thể vượt cơ chế xác thực reCAPTCHAv2 nổi tiếng của Google.
+Captcha được phát triển bởi các nhà khoa học tại Đại học Carnegie Mellon và IBM từ năm 2000, nhằm yêu cầu người dùng phải chứng minh họ không phải là bot trên Internet. Chúng thường là các số và chữ cái bị biến dạng, hoặc các hình ảnh khác nhau, và người dùng phải nhập chính xác theo yêu cầu để xác thực.
+Captcha được xem là bức tường bảo vệ giúp website không bị phần mềm tự động tấn công. Trong phiên bản reCAPTCHAv2, người dùng cần nhận diện các vật thể xuất hiện trong hình, như cầu, đèn giao thông, xe đạp, ôtô, tàu thuyền.
+Để vượt qua, nhóm của Plesner sử dụng mô hình nhận dạng đối tượng You Only Look Once (YOLO). Đây là một bot từng được sử dụng để gian lận trong game nhờ khả năng phát hiện vật thể theo thời gian thực, cũng như hoạt động hiệu quả với hệ thống có sức mạnh phần cứng hạn chế.
+Ban đầu, nhóm sử dụng mô hình được huấn luyện từ 14.000 hình ảnh giao thông. Kết quả là với captcha chứa ảnh thuộc thể loại này, tỷ lệ nhận diện thành công là 100%.
+Nhóm sau đó đưa vào nhiều dữ liệu đa dạng hơn với 13 danh mục ảnh phổ biến. Mô hình hoạt động thành công với 9/13 danh mục. Mức độ giải captcha ban đầu chỉ đạt 69% với ảnh xe máy, nhưng sau đó tỷ lệ tăng lên nhờ khả năng tự học hỏi của AI. Nếu khó xác định, AI sẽ yêu cầu hệ thống chuyển sang captcha mới cho đến khi vượt qua.
+"Bằng các thử nghiệm chi tiết, chúng tôi đã chứng minh các hệ thống tự động sử dụng công nghệ AI tiên tiến, như YOLO, có thể giải mã thành công captcha dựa trên hình ảnh", Plesner nói. "Phát hiện này đặt dấu hỏi về độ tin cậy của captcha trong việc phân biệt con người và bot. Nói cách khác, cơ chế captcha hiện tại có thể không còn 'miễn dịch' trước AI".
+Trước đó, hầu hết mô hình nhận diện hình ảnh chỉ thành công khoảng 70%. Theo Tom's Hardware, nghiên cứu mới đặt ra thách thức trong việc xác thực bot trên Internet, cũng như cho thấy sự tiến bộ mạnh mẽ của các mô hình máy học.
+Google đã chuyển sang reCAPTCHAv3 từ năm 2018 với khả năng phân tích các tương tác người dùng, từ đó loại bỏ sự can thiệp của bot hiệu quả hơn. Dù vậy, theo Ars Technica, hàng triệu website toàn cầu vẫn dùng reCAPTCHAv2, khiến chúng có nguy cơ bị các phần mềm tự động tấn công.
+Bảo Lâm

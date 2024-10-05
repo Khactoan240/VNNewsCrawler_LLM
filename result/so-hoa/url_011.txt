@@ -1,0 +1,7 @@
+Meta ra AI tạo video, thách thức OpenAI Sora 
+Meta công bố mô AI mang tên Movie Gen chuyên tạo video và âm thanh từ văn bản, tuyên bố đủ sức cạnh tranh với Sora.
+Ngày 4/10, Meta đăng video do Movie Gen tạo ra, cho thấy những hình ảnh sinh động như con vật đang bơi và lướt sóng. AI cũng có thể sáng tác nhạc nền và hiệu ứng âm thanh khớp với nội dung video, đồng thời sử dụng các công cụ để chỉnh sửa video có sẵn.
+Video của Movie Gen dài tối đa 16 giây, trong khi âm thanh có thời lượng đến 45 giây. Meta cũng công bố dữ liệu thử nghiệm mù, cho thấy mô hình hoạt động tương đồng hoặc nổi trội hơn sản phẩm của OpenAI, Runway, ElevenLabs và Kling.
+Phát ngôn viên Meta nói công ty ít khả năng phát hành công khai Movie Gen, khác với mô hình ngôn ngữ lớn Llama, vì họ luôn đánh giá rủi ro cho từng mô hình cụ thể trước khi ra quyết định. Meta từ chối bình luận về rủi ro của Movie Gen, nhưng nhấn mạnh công ty đang làm việc trực tiếp với ngành giải trí và cộng đồng sáng tạo nội dung về những phương án sử dụng AI này, cũng như cách tích hợp vào sán phẩm của Meta trong năm sau.
+Tài liệu nghiên cứu được Meta công bố cho thấy Movie Gen được phát triển bằng các bộ dữ liệu công khai trên mạng kết hợp với dữ liệu được cấp bản quyền.
+Điệp Anh (Theo Reuters)

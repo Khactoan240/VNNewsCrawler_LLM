@@ -1,0 +1,4 @@
+Hình tam giác khác màu ở đâu? 
+Nhiệm vụ của bạn là chỉ ra hình tam giác có màu khác nhất trong tất cả hình học 2D dưới đây càng nhanh càng tốt.
+>> Xem đáp án
+Mộc Trà (st)

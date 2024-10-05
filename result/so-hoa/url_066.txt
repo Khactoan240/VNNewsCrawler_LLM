@@ -1,0 +1,11 @@
+Ăng-ten trong suốt biến cửa kính thành trạm gốc 5G 
+WaveAntenna, công nghệ ăng-ten trong suốt mới, có thể biến cửa sổ thành trạm gốc 5G mà không gây ảnh hưởng đến ngôi nhà hay cảnh quan chung.
+Mạng di động không dây thế hệ thứ năm hiện đã được triển khai đến hàng trăm triệu người dùng. Dù mang lại độ trễ thấp, tốc độ truyền dữ liệu cao, mạng này cần nhiều trạm gốc do diện tích phủ sóng nhỏ hơn.
+Việc tạp nhiều trạm gốc có thể gây mất mỹ quan tại những nơi đông dân cư, đồng thời gây tốn kém hơn thế hệ mạng trước. Các công ty Nhật Bản hiện đưa ra biện pháp phát triển ăng-ten trong suốt, cho phép gắn trên cửa sổ hoặc tòa nhà. Chúng đóng như trạm gốc 5G và có thể chia sẻ cho nhiều nhà mạng dùng chung.
+Được gọi là WaveAntenna, ăng-ten này được lắp đặt trên bề mặt bên trong của cửa sổ, đặt gần đỉnh hoặc phần cạnh. Trừ cáp nối, thiết bị khó bị nhận ra do gần như trong suốt.
+WaveAntenna tương thích với tần số trong dải Sub-6 của 5G. Công nghệ mạng di động thế hệ thứ năm hiện có hai loại chính là Sub-6 và mmWave. Sub-6 có tốc độ thấp hơn, nhưng khả năng xuyên vật cản, truyền xa tốt. mmWave tốc độ cao, nhưng dễ bị ảnh hưởng bởi vật cản và phủ sóng trong phạm vi hẹp.
+Tháng trước, hãng truyền thông JTower tại Tokyo cho biết đã bắt tay với AGC cùng nhà mạng NTT Docomo để triển khai ăng-ten kính mới, đầu tiên được lắp đặt tại một số tòa nhà ở quận Shinjuku của Tokyo.
+"Đây được xem là ăng-ten kính thương mại đầu tiên trên thế giới biến cửa sổ thành trạm gốc 5G. Nó có thể biến khu vực xung quanh nơi đặt kính thành vùng dịch vụ mà không làm hỏng cảnh quan đô thị hoặc ngoại thất của ngôi nhà", ông Shota Ochiai, quản lý tiếp thị tại AGC, nói với IEEE Spectrum.
+Ăng-ten tối ưu cho các băng tần 3,7-4,5 GHz, cung cấp băng thông đáng kể dù chưa bằng mmWave 10-50 GHz. Hiện các nhà mạng Mỹ như Verizon hay AT&T vẫn dùng băng tần 3,7-4,2 GHz cho 5G, trong khi T-Mobile chủ yếu dựa vào phổ tần 2,5 GHz.
+Theo PhoneArena, sử dụng ăng-ten kính làm trạm gốc sẽ giúp 5G ngày càng phổ biến hơn do đặc tính lắp đặt dễ dàng với chi phí thấp hơn cách truyền thống. Tuy vậy, nó có thể tác động tiêu cực đến các công ty hàng đầu đang tham gia sản xuất trạm gốc 5G như Samsung, Huawei, Ericsson, Intel, Nokia, Qualcomm, ZTE hay NEC.
+Bảo Lâm

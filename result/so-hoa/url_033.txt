@@ -1,0 +1,8 @@
+Apple sửa lỗi cảm ứng trên iPhone 16 
+Apple phát hành bản cập nhật iOS 18.0.1, tập trung sửa lỗi chạm cảm ứng trên thế hệ iPhone 16.
+Trang công nghệ PhoneArena đánh giá Apple có động thái đầy bất ngờ khi triển khai bản cập nhật nhỏ iOS 18.0.1, dù iOS 18.1 với tính năng được mong đợi nhất Apple Intelligence sẽ có mặt ngay trong tháng 10.
+iOS 18.0.1 chủ yếu khắc phục sự cố của iPhone đã gặp phải hai tuần qua, trong đó có lỗi phản hồi khiến màn hình cảm ứng không nhận diện các lần chạm hoặc vuốt.
+Trước đó, nhiều người dùng iPhone 16, chủ yếu là hai mẫu iPhone 16 Pro và 16 Pro Max, phản ánh các phản hồi trên màn hình khá chậm, thao tác chạm và vuốt thi thoảng gặp trục trặc. Một số sau đó cho rằng nguyên nhân nằm ở nút Camera Control. Chỉ cần không chạm vào vùng này, lỗi sẽ không xảy ra.
+Bên cạnh khắc phục vấn đề cảm ứng, iOS 18.0.1 cũng sửa lỗi khiến camera trên iPhone 16 Pro bị treo khi quay video chế độ macro 4K, ứng dụng Tin nhắn bị "đơ" khi gặp các ký tự lạ, hay sự cố phân bổ bộ nhớ ảnh hưởng đến hiệu suất trên một số iPhone.
+Để cài đặt bản cập nhật mới, người dùng iPhone trong danh sách được hỗ trợ có thể vào Cài đặt > Chung > Cập nhật phần mềm và tải bản cập nhật. Để tránh rủi ro, người dùng nên sao lưu dữ liệu quan trọng trước khi nâng cấp.
+Bảo Lâm
