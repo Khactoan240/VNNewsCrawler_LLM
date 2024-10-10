@@ -1,9 +1,10 @@
-Đưa ChatGPT lên máy tính bỏ túi 
-Một YouTuber tích hợp thành công ChatGPT lên mẫu máy tính cầm tay Texas Instruments TI-84 và gọi nó là "thiết bị gian lận tối thượng".
-Đầu tháng 9, ChromaLock, YouTuber kiêm modder - chỉ người chuyên sửa đổi phần cứng, phần mềm để thực hiện một chức năng không do nhà thiết kế đưa ra - đã đăng hình ảnh chiếc máy tính TI-84 được can thiệp phần cứng để có thể tích hợp ChatGPT và thực hiện hàng loạt tính năng thông minh.
-Trong video chia sẻ trên YouTube, ChromaLock cho biết đã gắn thêm một bộ vi điều khiển wifi Seeed Studio XIAO-ESP32-C3 cùng một số vi mạch khác để kết nối không dây qua thiết bị khác, cũng như truyền phần mềm cần thiết sau này. Linh kiện có thể dễ dàng mua trên các trang thương mại điện tử. Toàn bộ ẩn bên trong, còn vẻ ngoài của thiết bị không thay đổi.
-Phần mềm cũng được thiết kế để nội dung có thể hiển thị trên màn hình máy tính cầm tay. Cuối cùng, ChromaLock truyền dữ liệu từ PC lên thiết bị đích.
-Trong video, modder này đã thực hiện một số tính năng mới mà một chiếc TI-84 thông thường không có, như giải toán và truy vấn thông tin qua ChatGPT, xem ảnh dạng đơn sắc, chơi game rắn săn mồi. Nhiều chức năng cũng đang được xây dựng, như duyệt web, chức năng email, phát video và thậm chí truy cập Discord.
-Hiện phần mềm đã được chia sẻ trên GitHub và được mô tả là "bản mod cho máy tính TI-84 Plus Silver Edition và TI-84 Plus C Silver Edition, cung cấp truy cập Internet và thêm các tính năng khác, như hỗ trợ camera".
-Theo Tom's Hardware, thiết bị của ChromaLock khá thú vị khi mở ra nhiều chức năng mới cho một máy tính bỏ túi phổ biến như TI-84. Dù vậy, như tên gọi "thiết bị gian lận tối thượng", nó có thể bị học sinh lạm dụng trong kỳ thi. Với ngoại hình không khác gì chiếc TI-84 thông thường, giáo viên khó phát hiện điểm bất thường.
-Bảo Lâm
+Người dùng Facebook sắp thấy thêm nhiều nội dung từ người lạ 
+Facebook công bố hàng loạt cập nhật, trong đó có những thay đổi sẽ đưa người dùng ra khỏi vòng tròn người thân và bạn bè.
+Một trong các cập nhật mới trên Facebook, được Meta công bố ngày 4/10, là bổ sung các mục (tab) để hiển thị nhiều nội dung đến người dùng hơn, trong đó có đề xuất dựa trên vị trí của họ.
+Mục Local (Địa phương) sẽ tập hợp nội dung từ các phần khác như Marketplace, nhóm và sự kiện xung quanh người dùng. Tính năng này đang được thử nghiệm tại 10 thành phố của Mỹ.
+Facebook cũng bắt đầu thử nghiệm mục Explorer (Khám phá) với tính năng tương đồng Instagram, trong đó cá nhân hóa hình ảnh, video và nội dung riêng biệt cho người dùng. Công ty cho biết phần này dựa trên sở thích của người dùng và sẽ hiển thị nội dung từ "người thật và cộng đồng chuyên gia".
+Facebook cũng bổ sung bảng feed video toàn màn hình, tập trung các định dạng video và livestream vào một chỗ, tương tự trang For You của TikTok. Meta cho biết người dùng trẻ đang dành 60% thời lượng truy cập Facebook để xem video, đồng thời cam kết thay đổi đáng kể thuật toán đề xuất nội dung trong mục này.
+Ứng dụng nhắn tin Messenger cũng được nâng cấp thông qua Messenger Communities - tính năng có nhiều nét giống Discord và Slack. Nó cho phép người dùng tạo nhiều phòng chat dựa trên những đề tài khác nhau trong một nhóm lớn, ví dụ lớp đại học có thể tạo nhiều phòng chat để phát thông báo và đưa tin.
+Sự trỗi dậy của TikTok đã thúc đẩy nhiều nền tảng mạng xã hội giảm hiển thị nội dung đăng bởi người thân, bạn bè và các mối quan hệ có sẵn của người dùng, chuyển sang những nội dung từ các tài khoản lạ mà thuật toán cho rằng người dùng có thể ưa thích.
+Meta thời gian qua cũng thông báo sẽ thực hiện biện pháp này cho cả Facebook và Instagram, trong đó lượng nội dung được đề xuất đang ngày càng tăng lên.
+Điệp Anh (Theo The Verge)

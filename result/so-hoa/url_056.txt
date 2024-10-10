@@ -1,3 +1,10 @@
-Sáu lý do iPhone 16 Pro đáng mua hơn 16 Pro Max 
-iPhone 16 Pro có thông số tương tự bản Pro Max, pin tốt, cầm thoải mái hơn trong khi giá khởi điểm rẻ hơn 5 triệu đồng.
-Tuấn Hưng
+Apple tạo mô hình AI 'đọc' độ sâu 3D từ ảnh 2D 
+Mô hình AI Depth Pro do nhóm Machine Learning Research (MLR) của Apple phát triển có thể phân tích độ sâu 3D của một bức ảnh 2D.
+Theo VentureBeat, mô hình Depth Pro của nhóm MLR giúp cải thiện khả năng phân tích thị giác máy tính và xử lý hình ảnh ba chiều (3D) từ ảnh hai chiều (2D). Mô hình này có thể tạo bản đồ 3D với độ sâu 2,25 megapixel từ một bức ảnh chỉ trong 0,3 giây bằng GPU tiêu chuẩn.
+Các thiết bị như iPhone 16 có thể tạo bản đồ độ sâu hình ảnh bằng cảm biến trên máy. Tuy nhiên, hầu hết ảnh tĩnh đăng trên Internet không có dữ liệu độ sâu thực tế kèm theo. Bản đồ độ sâu cho hình ảnh rất hữu ích cho nhiều ứng dụng, nhất là khi chỉnh sửa ảnh. Chẳng hạn, nếu ai đó muốn sửa một đối tượng hoặc thêm hiệu ứng mờ "lens" nhân tạo vào cảnh, bản đồ độ sâu có thể giúp phần mềm tạo một lớp chính xác.
+Mô hình bản đồ độ sâu cho hình ảnh cũng hỗ trợ tạo hình ảnh bằng AI, giúp một mô hình ngôn ngữ lớn (LLM) tổng hợp để cho ra kết quả giống thực tế hoặc gần với yêu cầu đề ra hơn. Tuy nhiên, để đạt được điều này, một mô hình đánh giá độ sâu cần phải nhanh chóng tạo kết quả chính xác và có độ phân giải cao. Một bản đồ độ sâu sơ sài không có nhiều giá trị.
+Nhóm MLR cho biết Depth Pro tạo ra một bản đồ độ sâu hình ảnh có độ phân giải cao trong thời gian chưa tới một giây, giúp các hệ thống máy học khác có thể "nhìn" ở nhiều góc khác nhau.
+Ngoài ra, mô hình còn hữu ích cho các ứng dụng thực tế tăng cường (AR), nơi các đối tượng ảo cần được đặt chính xác trong không gian vật lý. Depth Pro xử lý tốt cả độ sâu tương đối và tuyệt đối - yếu tố hữu ích trong nhiều trường hợp sử dụng.
+"Mô hình của chúng tôi đạt độ chính xác về đánh giá độ sâu của một bức ảnh mà không cần đến những dữ liệu ảnh chuyên sâu, vạch ra ranh giới che khuất với độ chi tiết chưa từng có so với trước đây. Nó hỗ trợ các ứng dụng tổng hợp góc nhìn mới từ những bức ảnh đơn lẻ trong tự nhiên", nhóm nghiên cứu của Apple giải thích.
+Tuy nhiên, nhóm thừa nhận còn một số hạn chế như khó xử lý bề mặt trong suốt và tán xạ. Người dùng hiện có thể thử nghiệm Depth Pro trên nền tảng Hugging Face. Nhóm chưa công bố kế hoạch thương mại hóa hoặc tích hợp lên các ứng dụng khác của Apple.
+Bảo Lâm

@@ -1,12 +1,11 @@
-Sinh viên Việt giành giải nhất với ý tưởng dùng drone cứu nạn trong lũ 
-Nhóm sinh viên Việt Nam phát triển giải pháp tìm người bị nạn bằng drone kết hợp AI, giành giải nhất tại cuộc thi châu Á của Huawei.
-Tại cuộc thi Tech4Good khu vực châu Á - Thái Bình Dương do Huawei tổ chức tại Trung Quốc ngày 26/9, dự án SkyNet - hỗ trợ tìm kiếm người gặp nạn trong lũ lụt - của nhóm sinh viên Việt Nam đã đoạt giải nhất, đồng thời giành suất tiến vào vòng Chung kết toàn cầu năm 2025.
-Dự án được phát triển dựa trên ý tưởng ứng dụng máy bay không người lái kết hợp radar khẩu độ tổng hợp SAR và công nghệ AI, nhằm hỗ trợ tìm và giải cứu người bị nạn ở vùng ngập lụt nhanh hơn. Giải pháp được đưa ra đáp ứng các tiêu chí gồm thu ảnh ở độ phân giải cao, phát sóng dữ liệu di động ổn định và báo cáo dữ liệu theo thời gian thực. Ngoài ra, nhóm cũng đưa ra phương án để tối ưu chi phí, xây dựng đa dạng kịch bản ứng dụng nếu được thương mại hóa.
-Giải pháp này được đánh giá giàu tính ứng dụng trong bối cảnh thực tiễn về bão Yagi vừa gây thiệt hại lớn tại Việt Nam, đồng thời bài trình bày của nhóm cũng tạo được sự ấn tượng với giám khảo.
-Sáu sinh viên Việt Nam tham gia đội thi gồm Mai Thị Phượng, Nguyễn Thị Thu Trang và Đinh Hoàng Anh (Học viện Công nghệ Bưu chính Viễn thông), Phạm Quỳnh Trang (Đại học VinUni), Cao Sỹ Dương (Đại học Bách Khoa Hà Nội), và Trần Đăng Nam (Đại học Giao thông Vận tải TP. HCM).
-Đây là các sinh viên vượt qua hai vòng thi của chương trình "Hạt giống cho Tương lai 2024", được chọn từ 400 sinh viên tại Việt Nam và đảm bảo tiêu chí về điểm số học tập cao nhất cũng như đủ điều kiện thi đấu quốc tế. Tại vòng thi châu Á - Thái Bình Dương, họ thi đấu với 24 đội thi đến từ 24 quốc gia trong khu vực. Kết quả, đội Việt Nam và Campuchia cùng giành giải Nhất.
-Họ sẽ được tài trợ khởi nghiệp, tham gia chuyến trải nghiệm đến Trung Quốc và tham dự những cuộc thảo luận "1:1" với các lãnh đạo Huawei.
-"Sáu ‘hạt giống’ Việt Nam đã giành vị trí nhất bảng, chứng minh được năng lực cá nhân qua dự án SkyNet và truyền cảm hứng cho các tài năng trẻ khác tích cực chuyển đổi ý tưởng sáng tạo vào thực tiễn quốc gia", ông Macky Zhang, Tổng giám đốc Huawei Việt Nam, chia sẻ.
-Thạc sĩ Cao Hữu Vinh, Phó viện trưởng Đào tạo Chất lượng cao, Trường Đại học Giao thông Vận tải TP. HCM, cũng đánh giá đây là cơ hội để sinh viên tiếp cận và trau dồi các kiến thức mới nhất, cũng như có cái nhìn toàn diện về các công nghệ hiện đại và ứng dụng thực tế vào đa lĩnh vực khác nhau.
-Tech4Good là cuộc thi về dự án khởi nghiệp được Huawei tổ chức thường niên, hướng tới mục tiêu nâng cao nhận thức của sinh viên về các thách thức đối với sự phát triển bền vững của địa phương, cùng với việc nắm bắt xu hướng số hóa mới nhất, từ đó phát triển các giải pháp khả thi cả về mặt kỹ thuật và thương mại, giải quyết các vấn đề xã hội.
-Lưu Quý
+HMD Global dần gỡ điện thoại Nokia khỏi website 
+HMD Global gỡ bỏ thương hiệu điện thoại Nokia khỏi website của mình ở châu Âu, nhưng chưa đưa ra thông báo chính thức nào.
+Theo WinFuture, HMD Global đang dần xóa điện thoại mang thương hiệu Nokia khỏi website bán hàng tại châu Âu để tập trung cho thương hiệu HMD của mình. Quá trình này được mô tả "diễn ra âm thầm, chậm và ổn định".
+Đối với các mẫu điện thoại mới ra mắt, HMD Global chỉ đơn giản đổi tên. Chẳng hạn, Nokia X21 hiện được bán với tên HMD X21. Trong khi đó, các mẫu cũ hơn được thông báo "đã hết vòng đời" và không được bán nữa, cho thấy HMD không còn sản xuất thiết bị mang thương hiệu Nokia.
+Ngoài châu Âu, điện thoại Nokia vẫn còn trên website của HMD Global ở châu Á, Bắc Mỹ và Mỹ Latin, cho thấy việc chuyển đổi không diễn ra đồng thời. Một số trang công nghệ dự đoán HMD Global nhiều khả năng đang bán hết số hàng Nokia tồn kho ở các khu vực trên, trước khi loại bỏ hoàn toàn.
+HMD chưa đưa ra bình luận.
+Theo GizChina, một lý do cho động thái trên là giấy phép sử dụng thương hiệu Nokia sẽ hết hạn cuối năm nay. HMD muốn tập trung cho thương hiệu điện thoại riêng, thay vì xin gia hạn giấy phép thời gian tới.
+"HMD Global có thể thấy giá trị hơn trong việc phát triển thương hiệu điện thoại của riêng mình, từ đó tự do thiết lập bản sắc trên thị trường smartphone, không bị ràng buộc vào di sản và kỳ vọng đối với tên gọi Nokia", trang này bình luận.
+Một số chuyên gia nhận định thị trường smartphone ngày càng cạnh tranh những năm gần đây và HMD Global có thể cảm thấy thương hiệu Nokia không còn đủ để tạo sức hút bán hàng.
+Trong khi đó, đối với người hâm mộ thương hiệu điện thoại Nokia, động thái của HMD Global có thể gây thất vọng. Nokia từng đại diện cho chất lượng và độ bền, nên việc bị xóa khỏi trang web của HMD giống như sự kết thúc của một kỷ nguyên.
+Bảo Lâm

@@ -1,9 +1,8 @@
-Google xây trung tâm dữ liệu một tỷ USD ở Thái Lan 
-Google sẽ xây trung tâm dữ liệu đầu tiên tại Thái Lan nhằm đáp ứng nhu cầu ngày càng tăng về dịch vụ đám mây, AI trong khu vực.
-Ngày 30/9, Google thông báo sẽ đầu tư 36 tỷ baht, tương đương một tỷ USD, vào Thái Lan để xây dựng trung tâm dữ liệu, dự kiến đặt tại một khu công nghiệp ở tỉnh Chonburi.
-Trong bài đăng trên blog, Jackie Wang, Giám đốc quốc gia của Google Thái Lan, cho biết cơ sở hạ tầng này nhằm "hỗ trợ nhu cầu ngày càng tăng đối với các cải tiến của Google Cloud và AI, cũng như các dịch vụ phổ biến như Google Search, Maps và Workspace" tại nước này.
-Ngoài ra, với số tiền đầu tư lớn, trung tâm dữ liệu được cho là sẽ "mở ra cơ hội mới cho doanh nghiệp, nhà giáo dục và tất cả người dân Thái Lan". Dẫn nghiên cứu của Deloitte, Google cho biết dự án có thể tạo ra trung bình 14.000 việc làm mỗi năm tại đây cho đến 2029.
-Thái Lan có nền kinh tế số đứng thứ hai tại Đông Nam Á, sau Indonesia và trên Việt Nam, theo báo cáo năm 2023 của Google and Temasek. Reuters dẫn lời Thủ tướng Thái Lan Paetongtarn Shinawatra cho biết khoản đầu tư này "hoàn toàn phù hợp" với chính sách về Đám mây của của quốc gia này. Trước đó, tháng 11/2023, Thái Lan và Google ký thỏa thuận tập trung phát triển cơ sở hạ tầng kỹ thuật số và thúc đẩy việc áp dụng AI có trách nhiệm. Vào tháng 5, nước này cũng được Microsoft đầu tư xây dựng trung tâm dữ liệu đầu tiên.
-Theo CNBC, Google đang đẩy mạnh sự hiện diện tại khu vực Đông Nam Á, nơi có nền kinh tế số trị giá 218 tỷ USD. Việc này diễn ra trong bối cảnh hãng dịch vụ tìm kiếm đang chịu áp lực cạnh tranh trong cả lĩnh vực AI và điện toán đám mây. Vào tháng 5, hãng cũng đầu tư trung tâm dữ liệu 2 tỷ USD tại Malaysia.
-Hồi tháng 8, Reuters dẫn lời một số nguồn tin cho biết Google cũng đang trong quá trình thảo luận về việc xây trung tâm dữ liệu hyperscale tại Việt Nam, nhưng chưa rõ kết quả của quá trình này.
-Lưu Quý
+Meta AI hỗ trợ tiếng Việt 
+Meta thông báo mở rộng công cụ Meta AI, hoạt động tương tự ChatGPT, đến 21 quốc gia mới, trong đó có thị trường Việt Nam.
+Ngày 9/10, công ty mẹ của Facebook cho biết bộ tính năng Meta AI đã có mặt tại Brazil, Bolivia, Guatemala, Paraguay, Philippines và Anh, còn những nơi khác như Việt Nam sẽ được triển khai trong vài tuần tới.
+Công cụ sẽ hỗ trợ tương tác bằng tiếng Việt, được tích hợp bên trong Facebook, Instagram, WhatsApp và Messenger. Người dùng chỉ cần chạm vào biểu tượng Meta AI hoặc nhập "@Meta AI" vào cuộc trò chuyện nhóm để sử dụng, hoặc thông qua website meta.ai.
+Trước đó, tại Ngày hội Đổi mới sáng tạo Việt Nam ở Hà Nội sáng 1/10, Nick Clegg, Chủ tịch phụ trách Đối ngoại toàn cầu Meta, cho biết: "Chúng tôi tự hào là công ty công nghệ lớn duy nhất tại Thung lũng Silicon cung cấp công cụ AI miễn phí cho người dùng Việt".
+Meta AI, được triển khai đầu tiên ở Mỹ và hơn 20 thị trường hồi tháng 7, hoạt động dưới dạng chatbot tương tự ChatGPT nhưng sử dụng mô hình ngôn ngữ lớn LLaMA. Người dùng có thể trò chuyện với chatbot về nhiều chủ đề, như yêu cầu gợi ý địa điểm tham quan, tạo hình ảnh qua lời nhắc văn bản. AI cũng cho phép người dùng tìm hiểu thông tin chi tiết về một bài đăng mà họ thấy trên Facebook hoặc Instagram.
+Với 21 thị trường mới, Meta AI được cung cấp ở tổng cộng 43 quốc gia và vùng lãnh thổ, hỗ trợ hàng chục ngôn ngữ bản địa. "Có nghĩa rất nhiều người sử dụng Meta AI để tìm hiểu về các chủ đề họ quan tâm, nhận hướng dẫn hữu ích hoặc tìm cảm hứng cho các dự án nghệ thuật, trang trí nhà cửa và hơn thế nữa", công ty cho biết.
+Bảo Lâm

@@ -1,11 +1,15 @@
-Tiện ích khi thanh toán Apple Pay với thẻ BIDV Visa 
-Chủ thẻ BIDV Visa có thể kích hoạt Apple Pay nhanh, đảm bảo tính bảo mật trên iPhone và hưởng nhiều tiện ích khác.
-Thiết lập nhanh
-Apple Pay trên các thiết bị Apple có thể sử dụng để mua hàng tại cửa hàng, trong ứng dụng và trực tuyến. Để thiết lập, người dùng mở Apple Wallet trên iPhone, Apple Watch và nhấn vào ký hiệu (+) hoặc trên ứng dụng BIDV SmartBanking. Sau đó, khi thực hiện một số thao tác nhấn, khách hàng có thể sử dụng Apple Pay với thẻ tín dụng BIDV Visa.
-Tính bảo mật
-Với Apple Pay, người dùng có thể thanh toán bằng thẻ BIDV Visa trên iPhone, Apple Watch, iPad hoặc Mac. Ví điện tử này sử dụng các tính năng bảo mật được tích hợp trong thiết bị Apple để giúp cho giao dịch mua hàng riêng tư và an toàn hơn. Mỗi giao dịch được bảo mật thông qua xác thực bằng Face ID, Touch ID hoặc mật khẩu của thiết bị, cùng một mã bảo mật động dùng một lần.
-Bảo mật và quyền riêng tư là điểm cốt lõi của Apple Pay. Số thẻ tín dụng thực tế không được lưu trữ trên thiết bị hoặc trên máy chủ Apple khi khách hàng sử dụng Apple Pay cho các giao dịch thanh toán. Thay vào đó, một số tài khoản thiết bị (Device Account Number) duy nhất sẽ được gán, mã hóa và lưu trữ an toàn trong Secure Element, con chip tiêu chuẩn lưu trữ thông tin thanh toán an toàn trên các thiết bị điện tử.
-Mua sắm tại cửa hàng yêu thích
-Chủ thẻ tín dụng BIDV Visa Visa có thể sử dụng Apple Pay tại nhiều điểm giao dịch trên toàn quốc như FPT Shop, nhà thuốc Long Châu, Cellphones, Điện Máy Xanh, Hoàng Hà Mobile, Lotte Mart, Starbuck, TopZone, The Pizza Company... hoặc trên ứng dụng, website Bách Hóa Xanh, Be, Shopee, Mytour.vn, Hasaki...
-Ngày 10/9 - 31/10, người dùng được hoàn tiền 100.000 đồng cho ba giao dịch thanh toán ví khi sử dụng Apple Pay. Ngoài ra, chủ thẻ có thể áp dụng đồng thời ưu đãi, tích lũy điểm thưởng của thẻ, miễn lãi 45 ngày, trả góp 0% và ưu đãi tại hàng nghìn điểm giao dịch liên kết thẻ BIDV trên toàn quốc.
-Nhật Lệ
+Châu Âu chốt áp thuế đến 45% xe điện Trung Quốc 
+Liên minh châu Âu thông qua kế hoạch áp thuế đến 45% với xe điện nhập Trung Quốc từ 31/10, kéo dài ít nhất 5 năm.
+Các quốc gia Liên minh châu Âu (EU) hôm 4/10 đã bỏ phiếu áp thuế nhập khẩu xe điện từ Trung Quốc. Ủy ban châu Âu (EC), cơ quan chịu trách nhiệm quản lý thương mại thay mặt cho 27 quốc gia thành viên, hoan nghênh việc phần lớn các nước ủng hộ kế hoạch.
+Có hiệu lực từ 31/10 trừ khi Trung Quốc đưa ra giải pháp chấm dứt bế tắc, mức thuế áp dụng đối với các nhà sản xuất xe điện Trung Quốc lần lượt là 17% với BYD, 18,8% cho xe của Geely và 35,3% với xe SAIC. Geely sở hữu các thương hiệu như Polestar và Volvo của Thụy Điển, trong khi SAIC sở hữu MG của Anh, một trong những thương hiệu xe điện bán chạy nhất châu Âu.
+Các nhà sản xuất xe điện khác tại Trung Quốc, bao gồm các công ty phương Tây như Volkswagen và BMW, sẽ phải chịu mức thuế 20,7%. Riêng xe Tesla được EC áp mức thuế riêng là 7,8%.
+Các mức mới này được áp thêm trên mức thuế hiện hành là 10%. Điều này có nghĩa là trên thực tế, một số nhà sản xuất ôtô Trung Quốc sẽ sớm phải đối mặt với tổng mức thuế trên 45%.
+Bắc Kinh phản đối kết quả bỏ phiếu. "Trung Quốc kiên quyết phản đối các biện pháp bảo hộ không công bằng, không tuân thủ và vô lý của EU trong vụ việc này, đồng thời kiên quyết phản đối việc EU áp đặt thuế chống trợ cấp với xe điện của Trung Quốc", Phát ngôn viên của Bộ Thương mại nước này nêu.
+Tuy nhiên, EU và chính phủ Trung Quốc vẫn còn bốn tuần để đàm phán nhằm tìm ra giải pháp hòa giải trước thời hạn cuối tháng 10. Người phát ngôn EC Olof Gill lưu ý bất kỳ giải pháp nào do Bắc Kinh đề xuất cũng phải hoàn toàn phù hợp với các quy tắc của Tổ chức Thương mại Thế giới (WTO), khắc phục được "việc trợ cấp gây thiệt hại" từ phía Trung Quốc và phải "có thể giám sát và thực thi".
+Đức - quốc gia có ngành công nghiệp ôtô hùng mạnh - và Hungary bỏ phiếu phản đối kế hoạch áp thuế hôm 4/10. Hiệp hội Công nghiệp Ôtô Đức (VDA) cho biết chính phủ nước này đã gửi "thông điệp đúng đắn" bằng cách bỏ phiếu phản đối.
+Chủ tịch VDA Hildegard Müller gọi quyết định của EC là "một bước lùi xa hơn khỏi hợp tác toàn cầu". Bà nói rằng cần tiếp tục đàm phán với Trung Quốc và cho rằng "phải ngăn chặn sự leo thang - lý tưởng nhất là tránh được thuế quan để không rơi vào một cuộc xung đột thương mại".
+Trong khi, thủ tướng Hungary Viktor Orbán cảnh báo rằng EU có nguy cơ bắt đầu "cuộc chiến tranh lạnh kinh tế" với Trung Quốc và cam kết bỏ phiếu chống lại các biện pháp thuế. "Đây là điều tồi tệ nhất có thể xảy ra với châu Âu. Nếu tiếp tục, nền kinh tế châu Âu sẽ chết", ông nói.
+Theo EC, thị phần xe điện sản xuất tại Trung Quốc đã tăng từ 3,9% vào năm 2020 lên 25% vào tháng 9/2023, một phần do việc "hạ giá không công bằng" so với ngành công nghiệp EU. Brussels cáo buộc các công ty Trung Quốc bán rẻ nhờ được trợ cấp trong suốt chuỗi sản xuất.
+Các khoản trợ cấp này bao gồm việc chính quyền địa phương cung cấp đất rẻ để xây dựng nhà máy, nguồn lithium và pin dưới giá thị trường từ các doanh nghiệp nhà nước, ưu đãi thuế và tài chính từ các ngân hàng quốc doanh.
+Tăng trưởng thị phần nhanh chóng làm dấy lên lo ngại xe điện "made in China" đe dọa khả năng sản xuất công nghệ xanh của EU cũng như công ăn việc làm của 2,5 triệu công nhân ngành ôtô và 10,3 triệu người khác có việc làm phụ thuộc gián tiếp vào sản xuất xe điện.
+Phiên An (theo AP)

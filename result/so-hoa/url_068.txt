@@ -1,10 +1,7 @@
-Nhà thiết kế iPhone nói về ý tưởng tạo nút Camera Control 
-Richard Dinh và Johnny Manzari, hai chuyên gia thiết kế iPhone 16, cho biết Camera Control được lên ý tưởng từ thực tế sử dụng hàng ngày.
-"Tôi có hai con nhỏ, 2,5 tuổi và 6 tuổi. Chúng thường làm những trò rất hài hước. Camera Control giúp tôi dễ dàng ghi lại khoảnh khắc, điều có lẽ hiếm khi thực hiện được nếu không có nút kích hoạt nhanh này", Richard Dinh nói trong podcast Cool Hunting Design Tangents ngày 3/10.
-Ông Dinh hiện là giám đốc cấp cao về thiết kế iPhone của Apple. Ông cho biết đã tham gia dự án iPhone từ thế hệ đầu, nhưng mỗi phiên bản đều có cách tiếp cận mới mẻ. Theo ông, lợi ích lớn nhất của Camera Control là khả năng chụp hoặc quay video lập tức.
-Trong khi đó, Manzari, đảm nhận vai trò thiết kế giao diện người dùng cho sản phẩm Apple, nói phần lớn thói quen nhiếp ảnh của ông đã chuyển từ máy DSLR sang iPhone. "Khi con gái tôi còn nhỏ, tôi thường sử dụng máy ảnh truyền thống. Nhưng theo thời gian, tôi chuyển sang iPhone. Thật tuyệt khi không phải mang theo nhiều thiết bị nặng nề khi đi cùng các con", Manzari nói.
-Cả hai cho biết ý tưởng về nút Camera Control xuất phát từ câu hỏi làm thế nào để mọi người luôn bắt kịp các khoảnh khắc đặc biệt. "Chúng tôi không bắt đầu với suy nghĩ khi nào và làm thế nào để thêm nút đó. Chúng tôi bắt đầu bằng câu hỏi: Làm sao để không bao giờ bỏ lỡ khoảnh khắc?", Manzari nói.
-Theo ông, Camera Control là kỹ thuật hoàn toàn mới với Apple. "Đó là sự kết hợp giữa cảm biến lực và cảm biến điện dung trên nút cơ học. Lần đầu Apple thực hiện điều đó", ông nói.
-Ngoài ra, ông nói thêm rằng việc thiết kế nút chụp không dễ do cần đảm bảo khả năng chống nước, cũng như đáp ứng độ bền tiêu chuẩn của iPhone. Cuối cùng, nhóm chọn vật liệu là đá sapphire, viền thép không gỉ cho nút bấm và thực hiện nhiều biện pháp kỹ thuật để nó đồng màu với thân máy.
-Camera Control được trang bị trên cả bốn mẫu iPhone 16, nằm ở cạnh phải, bên dưới nút nguồn. Nút cho phép mở camera nhanh, điều chỉnh thông số bằng thao tác vuốt thông qua cảm ứng lực, nhưng được đánh giá không dễ làm quen.
-Bảo Lâm
+Meta ra AI tạo video, thách thức OpenAI Sora 
+Meta công bố mô AI mang tên Movie Gen chuyên tạo video và âm thanh từ văn bản, tuyên bố đủ sức cạnh tranh với Sora.
+Ngày 4/10, Meta đăng video do Movie Gen tạo ra, cho thấy những hình ảnh sinh động như con vật đang bơi và lướt sóng. AI cũng có thể sáng tác nhạc nền và hiệu ứng âm thanh khớp với nội dung video, đồng thời sử dụng các công cụ để chỉnh sửa video có sẵn.
+Video của Movie Gen dài tối đa 16 giây, trong khi âm thanh có thời lượng đến 45 giây. Meta cũng công bố dữ liệu thử nghiệm mù, cho thấy mô hình hoạt động tương đồng hoặc nổi trội hơn sản phẩm của OpenAI, Runway, ElevenLabs và Kling.
+Phát ngôn viên Meta nói công ty ít khả năng phát hành công khai Movie Gen, khác với mô hình ngôn ngữ lớn Llama, vì họ luôn đánh giá rủi ro cho từng mô hình cụ thể trước khi ra quyết định. Meta từ chối bình luận về rủi ro của Movie Gen, nhưng nhấn mạnh công ty đang làm việc trực tiếp với ngành giải trí và cộng đồng sáng tạo nội dung về những phương án sử dụng AI này, cũng như cách tích hợp vào sán phẩm của Meta trong năm sau.
+Tài liệu nghiên cứu được Meta công bố cho thấy Movie Gen được phát triển bằng các bộ dữ liệu công khai trên mạng kết hợp với dữ liệu được cấp bản quyền.
+Điệp Anh (Theo Reuters)

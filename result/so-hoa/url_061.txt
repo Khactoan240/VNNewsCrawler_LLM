@@ -1,11 +1,12 @@
-Nokia chuẩn bị triển khai 5G tại Việt Nam 
-Nokia dự kiến triển khai hệ thống 5G sử dụng thiết bị của hãng tại 22 tỉnh thành trên cả nước trong năm nay.
-Nokia cho biết việc triển khai nằm trong thỏa thuận với một nhà mạng tại Việt Nam nhằm phát triển cơ sở hạ tầng 5G, chuyển đổi số, hiện đại hóa hạ tầng 4G.
-Loại thiết bị thuộc danh mục 5G AirScale, bao gồm các giải pháp băng tần AirScale thế hệ mới, thiết bị vô tuyến Massive MIMO và các sản phẩm Remote Radio Head. Nokia cũng cho biết các thiết bị sử dụng SoC ReefShark, có khả năng tiết kiệm năng lượng và có thể kết hợp lại để đảm bảo vùng phủ sóng và dung lượng cao.
-"Các sản phẩm cũng được sản xuất tại nhà máy ở Việt Nam, nhấn mạnh cam kết của Nokia đối với khu vực", đại diện hãng nói, cho biết đây cũng là lần đầu thiết bị mạng 5G Nokia được triển khai tại đây.
-Hồi tháng 6, Nokia cho biết đã bắt đầu sản xuất danh mục sản phẩm thuộc dòng AirScale và sẽ tăng sản lượng từ tháng 9. Các thiết bị này được sản xuất tại nhà máy của Foxconn tại Bắc Giang, cung cấp cho thị trường Việt Nam và một số nước lân cận.
-Nokia không tiết lộ thời gian cụ thể, nhưng cho biết "sẽ bắt đầu trong năm nay", tức trong ba tháng tới.
-Trên thị trường thiết bị đầu cuối, kết nối 5G đã có mặt trên nhiều smartphone từ phân khúc tầm trung như Honor 90 Lite, Galaxy M15 tới thiết bị cao cấp như Z Fold6, iPhone 16.
-Bộ Thông tin và Truyền thông và các nhà mạng nhiều lần khẳng định 5G sẽ được triển khai chính thức trong năm 2024. Từ những tháng đầu năm, Bộ đã tổ chức đấu giá thành công ba khối băng tần 5G, thuộc về các nhà mạng Viettel, VNPT, MobiFone. Theo điều kiện đấu giá, doanh nghiệp phải triển khai dịch vụ trong vòng 12 tháng kể từ ngày được cấp phép và sau hai năm phải có tối thiểu 3.000 trạm phát sóng 5G.
-Sau khi trúng đấu giá băng tần hồi tháng 3, Viettel cho biết một số thiết bị 5G do công ty tự nghiên cứu và sản xuất đã sẵn sàng để chạy triển khai trên băng tần 2500-2600 MHz. Hồi tháng 8, họ cũng tuyên bố triển khai thành công mạng 5G độc lập (5G Standalone), tức không phụ thuộc hạ thầng 4G, đồng thời ra mắt dịch vụ video chờ meCall, là dịch vụ đầu tiên trong hệ sinh thái 5G của nhà mạng này.
-Lưu Quý
+Chi phí linh kiện chiếm 40% giá bán iPhone 16 
+Nếu tính riêng linh kiện, Apple cần khoảng 485 USD để sản xuất một chiếc iPhone 16 Pro Max bản 256 GB, trong khi giá bán là 1.199 USD.
+Số liệu trên được công ty nghiên cứu TD Cowen công bố ngày 2/10 sau khi phân tích các thành phần bên trong mẫu iPhone mới nhất của Apple. Có nghĩa, chi phí linh kiện chỉ chiếm 40% so với giá bán ra của mẫu iPhone 16 Pro Max với dung lượng bộ nhớ thấp nhất 256 GB.
+Mức 485 USD cũng không chênh lệch nhiều so với iPhone 15 Pro Max, với chi phí linh kiện 453 USD, tương đương 38%.
+Chi phí sản xuất (BOM) không phản ánh bức tranh toàn cảnh, vì chưa tính đến những yếu tố quan trọng khác như nghiên cứu và phát triển, lắp ráp, phân phối, marketing, giá trị thương hiệu. CEO Apple Tim Cook cũng từng nói chỉ số BOM do bên thứ ba đưa ra "không gần với sự thật" và chi phí thực tế cao hơn nhiều.
+Tuy nhiên, theo PhoneArena, danh mục vật liệu vẫn hữu ích vì giúp so sánh các thế hệ iPhone, từ đó xem việc nâng cấp phần cứng có tác động đến việc Apple phải tăng giá thiết bị qua từng năm hay không.
+Trong dữ liệu do TD Cowen công bố, màn hình 6,9 icnh và ống kính tetraprism chiếm chi phí lớn nhất, đều 80 USD, tương đương 16%. Chip xử lý A18 Pro giá 45 USD, chiếm 9%. Các thành phần còn lại như RAM, modem 5G, cảm biến, pin... chiếm 2-6%.
+Trong khi đó, phím cảm ứng lực Camera Control mới trên iPhone 16 Pro Max là 19 USD. Đây là một trong các yếu tố khiến chi phí linh kiện của smartphone này cao hơn mẫu iPhone 15 Pro Max năm ngoái.
+Ngoài iPhone 16 Pro Max, TD Cowen không công bố bảng giá vật liệu của các phiên bản iPhone 16. Công ty này được thành lập năm 1918, trụ sở ở New York và chuyên về lĩnh vực dịch vụ tài chính và thanh toán toàn cầu.
+Trong khi giá thành sản xuất cao hơn, iPhone 16 được ước tính không bán chạy bằng iPhone 15 trong giai đoạn đầu, nhất là ở Trung Quốc, do thiếu đột phá về thiết kế, trong khi Apple Intelligence chưa có mặt, cùng sự cạnh tranh khốc liệt từ Huawei.
+Bộ bốn iPhone 16 được Apple công bố ngày 9/9. Trong đó, iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel. Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel. Cả bốn đều có nút chụp mới. Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro.
+Bảo Lâm - Huy Đức

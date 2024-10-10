@@ -1,3 +1,10 @@
-Đường hầm ống chìm dài nhất thế giới được xây thế nào?
-Đường hầm Fehmarnbelt nối liền Đức và Đan Mạch dài khoảng 18 km, được ghép nối từ 89 đoạn và dự kiến hoàn thành năm 2029.
-Đồ họa: FemernAS
+Laser tia X mạnh nhất thế giới 
+Mỹ
+Linac Coherent Light Source (LCLS) tại Phòng thí nghiệm Gia tốc Quốc gia SLAC sẽ trải qua nâng cấp quan trọng giúp tăng năng lượng tia X của cỗ máy gấp 3.000 lần.
+LCLS - máy laser tia X mạnh nhất thế giới nằm ở Phòng thí nghiệm Gia tốc Quốc gia SLAC ở Mỹ. Khi hoàn thành, nâng cấp sẽ cho phép các nhà khoa học khám phá những quá trình ở cấp nguyên tử nhằm giải đáp nhiều câu hỏi trong lĩnh vực sinh vật học, khoa học vật liệu, vật lý lượng tử, Interesting Engineering hôm 27/9 đưa tin.
+LCLS được chế tạo với kinh phí từ Bộ Năng lượng Mỹ (DOE), là cỗ máy đầu tiên tạo ra tia X năng lượng cao (tia X cứng) bằng máy laser electron tự do. Cơ sở bắt đầu hoạt động năm 2009 nhưng mới nâng cấp năm 2023. LCLS có thêm một máy gia tốc siêu dẫn và cấu trúc từ gọi là máy gợn sóng có thể sản sinh cả chùm tia X cứng mềm và cứng. Mang tên LCLS-II, nâng cấp gần nhất giúp cơ sở tạo ra một triệu xung tia X mỗi giây.
+Hiện nay, DOE đã thông qua nâng cấp tiếp theo gọi là LCLS-II HE (năng lượng cao), nhằm tăng gấp đôi năng lượng của chùm electron đến từ máy gia tốc siêu dẫn, qua đó tăng gấp đôi năng lượng tia X. Máy gia tốc siêu dẫn ở nâng cấp LCLS-II bao gồm 37 module lạnh sâu có thể làm mát tới -271 độ C để thúc đẩy electron tới năng lượng cao với mức hao hụt năng lượng tối thiểu.
+Với nâng cấp HE mới, LCLS sẽ có 23 module lạnh sâu mới, mỗi module chứa 8 khoang tần số vô tuyến siêu dẫn giúp cung cấp hiệu suất tối ưu. Các module được sản xuất bởi Phòng thí nghiệm Gia tốc Quốc gia Fermi (Fermilab) của DOE và Cơ sở Gia tốc Quốc gia Thomas Jefferson (Jefferson Lab).
+Theo Greg Hays, giám đốc dự án LCLS-II-HE, module lạnh sâu đầu tiên là nguyên mẫu sản xuất từ linh kiện dự phòng của LCLS-II, vì vậy họ có sẵn mọi bộ phận. Sau khi dây chuyền sản xuất hoạt động, họ có thể chế tạo một đơn vị trong thời gian trung bình khoảng 6 tuần. Tất cả module được lên lịch lắp đặt trong đường hầm máy gia tốc vào năm 2026.
+Dự kiến LCLS-II-HE sẽ tạo ra tia X đầu tiên trong khoảng cuối năm 2027 - 2030. Hoạt động đầu tiên sẽ quyết định chùm laser mới đạt hiệu suất tốt tới mức nào, theo Mike Dunne, giám đốc LCLS. Trong thời gian nâng cấp, LCLS-II sẽ vẫn phục vụ thí nghiệm khoa học. Do cơ sở có hai máy gia tốc và chỉ có máy gia tốc siêu dẫn được nâng cấp, nó có thể tiếp tục vận hành với máy gia tốc thường.
+An Khang (Theo Interesting Engineering)

@@ -1,8 +1,16 @@
-Vật thể lạ lao xuyên kính lái vào mặt tài xế xe tải 
-Thái Lan
-Đang điều khiển chiếc xe tải 6 bánh, đột nhiên tài xế trông như bị một phát đạn bắn trúng đầu, gục sang một bên.
-Chiều 26/9, trên đường vòng qua Chonburi, tài xế Atthapong Thapthimthong, 42 tuổi, đang châm điếu thuốc. Đột nhiên một thứ gì đó bay xuyên kính xe, và người đàn ông gục sang bên trái. Xe tải mất lái lao xuống vệ đường.
-Cảnh sát địa phương cho biết đã tìm được vật thể bằng sắt dày dạng chữ thập nghi là vật đã gây ra tai nạn, có thể rơi ra từ một xe khác, bị một ôtô chạy trước xe tải 6 bánh chèn trúng nên bay lên cao.
-Tài xế Thapthimthong rơi vào trạng thái hôn mê, với hộp sọ bị vỡ và bị thương ở ngực. Các bác sĩ thông báo cần kiểm tra và theo dõi thêm trước khi quyết định có cần phẫu thuật hay không.
-Về vật thể được tìm thấy, một chủ gara ôtô ở Chonburi, nói đó là một phần của trục trung tâm ôtô. Nhưng linh kiện này khó có khả năng tự rơi ra ngoài. Cảnh sát vẫn đang điều tra để xác định nguyên nhân, thu thập chứng cứ từ những camera xung quanh khu vực xảy ra tai nạn.
-Mỹ Anh (theo CH3Plus)
+Các yếu tố ảnh hưởng độ bền và an toàn của xe máy điện 
+Nhiệt độ, cách sạc pin, phanh/lốp mòn sớm, cho xe lội nước thường xuyên là những yếu tố có thể gây ảnh hưởng đến hiệu suất của xe máy điện.
+Xe máy điện ngày càng phổ biến hơn ở thị trường Việt Nam, thay thế xe máy xăng cho việc sử dụng di chuyển trong đô thị. Đây là loại phương tiện dễ làm quen khi chuyển đổi từ xe xăng sang xe điện, tuy nhiên có một số lưu ý trong quá trình sử dụng để giúp xe bền và an toàn hơn.
+Nhiệt độ môi trường
+Nhiệt độ môi trường quá cao hoặc quá thấp đều có thể ảnh hưởng đến hiệu suất của xe máy điện, vì khối pin trên xe điện chỉ hoạt động tốt ở dải nhiệt độ nhất định, thông thường là từ 20-40 độ C. Nếu nhiệt độ môi trường trên hoặc dưới mức này, tốc độ sạc, tốc độ di chuyển, khả năng tăng tốc của xe có thể bị giảm sút. Các xe điện hầu hết sẽ giới hạn hiệu suất một cách tự động, nhằm bảo vệ và kéo dài độ bền cho các linh kiện.
+Chính vì lý do trên, để duy trì độ bền của xe máy điện, tài xế nên chờ pin "nguội" vào thời điểm pin mới sạc đầy, khoảng 30-60 phút, nhất là lúc sạc nhanh bằng những bộ sạc công suất lớn. Vào thời điểm này nhiệt độ của pin thường ở mức cao, nếu sử dụng xe ngay có thể bị giảm công suất, hoặc làm pin sụt giảm năng lượng nhanh hơn. Nếu xe bị ướt vào thời điểm sạc, chủ xe cần đảm bảo cổng sạc phải khô ráo để tránh gây chập điện.
+Cách sạc pin
+Tương tự như trên ôtô điện, cách sạc pin trên xe máy điện sẽ ảnh hưởng đến tuổi thọ cũng như độ bền của khối pin. Việc sạc chậm sẽ giúp pin bền hơn so với sạc nhanh, vì lượng nhiệt sản sinh trong lúc sạc chậm sẽ thấp hơn. Bên cạnh đó, chủ xe không nên để pin cạn dưới mức 20%, hoặc sạc đầy hơn mức 80-90% nếu không cần thiết, tuổi thọ của pin sẽ được duy trì ở mức tối ưu khi dung lượng pin được giữ trong khoảng 20-80%. Việc sạc hằng ngày để "nuôi" pin sẽ giúp tăng độ bền hơn so với việc sử dụng xe cho đến khi cạn pin rồi mới sạc.
+Tuy nhiên, đối với các xe máy điện sử dụng công nghệ pin LFP, chủ xe có thể sạc đầy lên mức 100% mà không bị ảnh hưởng đến hiệu suất, cũng như tuổi thọ của pin.
+Phanh và lốp
+Xe máy điện có khả năng đạt được mô-men xoắn tối đa một cách tức thời, khiến xe tăng tốc nhanh và mạnh hơn xe sử dụng động cơ đốt trong, bởi vậy bánh xe mòn nhanh hơn. Trong điều kiện đường phố, tăng tốc nhanh hơn, nếu tài xế không điều tiết tay ga tốt, xe sẽ phải phanh nhiều hơn, nhất là trong điều kiện đường đông, tắc. Vì thế, má phanh cũng sẽ phanh mòn hơn.
+Người dùng xe máy điện cần kiểm tra hoặc thay thế phanh và lốp thường xuyên nhằm tránh tình trạng bị trượt vì lốp mòn khi di chuyển trên mặt đường ướt, và phanh luôn ở trạng thái hoạt động tốt nhất. Thông thường cần kiểm tra hoặc thay thế má phanh mỗi 10.000-15.000 km, với lốp xe là mỗi 20.000-30.000 km. Đối với các xe điện có gắn động cơ ở bánh sau, lốp sau sẽ nhanh mòn hơn lốp trước do trọng lượng ở đuôi xe nặng hơn.
+Xe máy điện lội nước
+Ưu điểm của xe máy điện so với xe máy thông thường khi đi qua những cung đường ngập lụt là có thể lội nước mà không bị thủy kích. Tuy nhiên, tính kháng nước của xe điện không có tác dụng vĩnh viễn, mà sẽ giảm dần theo thời gian tùy vào cách sử dụng xe của chủ nhân. Việc cho xe máy điện lội nước lâu dài có thể khiến các gioăng cao su chống nước bị lão hóa sớm, khiến nước xâm nhập một cách từ từ vào các thành phần như động cơ, pin, vòng bi (bạc đạn) trục bánh.
+Sau mỗi mùa mưa, nếu có lội nước thường xuyên, xe máy điện nên được kiểm tra toàn diện các gioăng cao su chống nước ở các linh kiện, thành phần ngập dưới nước. Các linh kiện này nếu bị nước thâm nhập có thể bị rỉ sét hoặc chập điện, gây ảnh hưởng đến hiệu suất và độ an toàn của xe. Việc kiểm tra xe nên được thực hiện ở các cơ sở dịch vụ chính hãng.
+Hồ Tân

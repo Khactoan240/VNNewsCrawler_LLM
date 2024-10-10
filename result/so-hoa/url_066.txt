@@ -1,11 +1,8 @@
-Ăng-ten trong suốt biến cửa kính thành trạm gốc 5G 
-WaveAntenna, công nghệ ăng-ten trong suốt mới, có thể biến cửa sổ thành trạm gốc 5G mà không gây ảnh hưởng đến ngôi nhà hay cảnh quan chung.
-Mạng di động không dây thế hệ thứ năm hiện đã được triển khai đến hàng trăm triệu người dùng. Dù mang lại độ trễ thấp, tốc độ truyền dữ liệu cao, mạng này cần nhiều trạm gốc do diện tích phủ sóng nhỏ hơn.
-Việc tạp nhiều trạm gốc có thể gây mất mỹ quan tại những nơi đông dân cư, đồng thời gây tốn kém hơn thế hệ mạng trước. Các công ty Nhật Bản hiện đưa ra biện pháp phát triển ăng-ten trong suốt, cho phép gắn trên cửa sổ hoặc tòa nhà. Chúng đóng như trạm gốc 5G và có thể chia sẻ cho nhiều nhà mạng dùng chung.
-Được gọi là WaveAntenna, ăng-ten này được lắp đặt trên bề mặt bên trong của cửa sổ, đặt gần đỉnh hoặc phần cạnh. Trừ cáp nối, thiết bị khó bị nhận ra do gần như trong suốt.
-WaveAntenna tương thích với tần số trong dải Sub-6 của 5G. Công nghệ mạng di động thế hệ thứ năm hiện có hai loại chính là Sub-6 và mmWave. Sub-6 có tốc độ thấp hơn, nhưng khả năng xuyên vật cản, truyền xa tốt. mmWave tốc độ cao, nhưng dễ bị ảnh hưởng bởi vật cản và phủ sóng trong phạm vi hẹp.
-Tháng trước, hãng truyền thông JTower tại Tokyo cho biết đã bắt tay với AGC cùng nhà mạng NTT Docomo để triển khai ăng-ten kính mới, đầu tiên được lắp đặt tại một số tòa nhà ở quận Shinjuku của Tokyo.
-"Đây được xem là ăng-ten kính thương mại đầu tiên trên thế giới biến cửa sổ thành trạm gốc 5G. Nó có thể biến khu vực xung quanh nơi đặt kính thành vùng dịch vụ mà không làm hỏng cảnh quan đô thị hoặc ngoại thất của ngôi nhà", ông Shota Ochiai, quản lý tiếp thị tại AGC, nói với IEEE Spectrum.
-Ăng-ten tối ưu cho các băng tần 3,7-4,5 GHz, cung cấp băng thông đáng kể dù chưa bằng mmWave 10-50 GHz. Hiện các nhà mạng Mỹ như Verizon hay AT&T vẫn dùng băng tần 3,7-4,2 GHz cho 5G, trong khi T-Mobile chủ yếu dựa vào phổ tần 2,5 GHz.
-Theo PhoneArena, sử dụng ăng-ten kính làm trạm gốc sẽ giúp 5G ngày càng phổ biến hơn do đặc tính lắp đặt dễ dàng với chi phí thấp hơn cách truyền thống. Tuy vậy, nó có thể tác động tiêu cực đến các công ty hàng đầu đang tham gia sản xuất trạm gốc 5G như Samsung, Huawei, Ericsson, Intel, Nokia, Qualcomm, ZTE hay NEC.
+Apple sửa lỗi cảm ứng trên iPhone 16 
+Apple phát hành bản cập nhật iOS 18.0.1, tập trung sửa lỗi chạm cảm ứng trên thế hệ iPhone 16.
+Trang công nghệ PhoneArena đánh giá Apple có động thái đầy bất ngờ khi triển khai bản cập nhật nhỏ iOS 18.0.1, dù iOS 18.1 với tính năng được mong đợi nhất Apple Intelligence sẽ có mặt ngay trong tháng 10.
+iOS 18.0.1 chủ yếu khắc phục sự cố của iPhone đã gặp phải hai tuần qua, trong đó có lỗi phản hồi khiến màn hình cảm ứng không nhận diện các lần chạm hoặc vuốt.
+Trước đó, nhiều người dùng iPhone 16, chủ yếu là hai mẫu iPhone 16 Pro và 16 Pro Max, phản ánh các phản hồi trên màn hình khá chậm, thao tác chạm và vuốt thi thoảng gặp trục trặc. Một số sau đó cho rằng nguyên nhân nằm ở nút Camera Control. Chỉ cần không chạm vào vùng này, lỗi sẽ không xảy ra.
+Bên cạnh khắc phục vấn đề cảm ứng, iOS 18.0.1 cũng sửa lỗi khiến camera trên iPhone 16 Pro bị treo khi quay video chế độ macro 4K, ứng dụng Tin nhắn bị "đơ" khi gặp các ký tự lạ, hay sự cố phân bổ bộ nhớ ảnh hưởng đến hiệu suất trên một số iPhone.
+Để cài đặt bản cập nhật mới, người dùng iPhone trong danh sách được hỗ trợ có thể vào Cài đặt > Chung > Cập nhật phần mềm và tải bản cập nhật. Để tránh rủi ro, người dùng nên sao lưu dữ liệu quan trọng trước khi nâng cấp.
 Bảo Lâm
